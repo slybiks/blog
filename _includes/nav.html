@@ -17,8 +17,10 @@
                     {% if site.twitter %}<li>
                         <a href="http://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
                     </li>{% endif %}
-										
-                    {% if site.facebook %}<li>
+                     {% if site.medium %}<li>
+-						<a href="http://medium.com/{{ site.medium }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-medium"></i> Medium</a>
+-				    </li>{% endif %}
+					 {% if site.facebook %}<li>
                         <a href="http://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>
                     </li>{% endif %}
                     {% if site.google.plus %}<li>
@@ -84,9 +86,7 @@
                     {% if site.hackernews %}<li>
                         <a href="https://news.ycombinator.com/user?id={{ site.hackernews }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-hacker-news"></i> Hacker News</a>
                     </li>{% endif %}
-                    {% if site.medium %}<li>
--						<a href="http://medium.com/{{ site.medium }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-medium"></i> Medium</a>
--				   </li>{% endif %}
+                   
 				</ul><!-- /.dl-submenu -->
 			</li>
 			<li>
