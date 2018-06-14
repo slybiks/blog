@@ -1,11 +1,11 @@
 # Site
 title:              Ambika Sivakumar
-bio:                'Doubt everything. Find your won light.
+bio:                'Doubt everything. Find your own light.
                     -Gautama Buddha'
 description:        "Sometimes, I write."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/shiva.jpg'
+logo:               'assets/img/biks.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -27,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   slybiks
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -41,14 +41,14 @@ disqus_shortname:   taylantatli
 #email:
 #twitter:            username
 #facebook:           username
-github-url:         username
+github-url:         slybiks
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          username
+linkedin:          Ambika Sivakumar
 #xing:              username
 #instagram:          username
 #lastfm:            username
 #tumblr:            username
-medium:            '@username'
+medium:            '@slybiks'
 #pinterest:         username
 #foursquare:        username
 #steam:              username
